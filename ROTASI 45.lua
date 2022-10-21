@@ -1,10 +1,10 @@
 --Setting Dasar
 blockid = 4584
-farm = {"BFWJW","DDKEW","MVDYT","JPBTZ","RMRLA","ZKDZJ","KRDMQ","QYDJO","RWJSV","WAWDX"}
+farm = {"OUUZF","XUZCN","NWQUG","VPTXJ","KNMDU","LXDSU","LOYQF","MFEBG","ESBQK","PGXYU"}
 farmid = "HAJISUMBUL"
 loopworld = "true"
-dropseed,dropseedid = "SUMBULMULET","DEPOPELITA"
-droppack,droppackid= "SUMBULMULET","DEPOPELITA"
+dropseed,dropseedid = "SUMBULPARGOY","DEPOPELITA"
+droppack,droppackid= "SUMBULPARGOY","DEPOPELITA"
 patokanpack = 558
 patokanseed = 568
 delaypnb = 178

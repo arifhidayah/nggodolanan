@@ -1,12 +1,12 @@
 --Setting Dasar
-blockid = 4584
-farm = {"BFWJW","DDKEW","MVDYT","JPBTZ","RMRLA","ZKDZJ","KRDMQ","QYDJO","RWJSV","WAWDX"}
+blockid = 5666
+farm = {"KPKXXXGG249","KPKXXXGG250","KPKXXXGG251","KPKXXXGG252","KPKXXXGG253","KPKXXXGG254","KPKXXXGG255","KPKXXXGG256","KPKXXXGG64","KPKXXXGG257","KPKXXXGG258","KPKXXXGG259","LJDOK","DAPLUN01","DAPLUN02","DAPLUN14","DAPLUN15","DAPLUN16","DAPLUN17","DAPLUN18","DAPLUN19","KWIXV","AIYZL","ZJNGL","PVJDU"}
 farmid = "HAJISUMBUL"
 loopworld = "true"
-dropseed,dropseedid = "SUMBULMULET","DEPOPELITA"
-droppack,droppackid= "SUMBULMULET","DEPOPELITA"
-patokanpack = 558
-patokanseed = 568
+dropseed,dropseedid = "CELENGCEPET","REPEKSULUH"
+droppack,droppackid= "CELENGCEPET","REPEKSULUH"
+patokanpack = 340
+patokanseed = 954
 delaypnb = 178
 delayplant = 30
 delayharvest = 90
